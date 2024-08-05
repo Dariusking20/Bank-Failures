@@ -17,4 +17,4 @@ So far, we have answered a few questions about this data:
 
 ![Top 10 Bank Failures](Top_10_Bank_Failures.png)
 
-# This is an ongoing project and will be updated with more advanced queries.
+## This is an ongoing project and will be updated with more queries.
