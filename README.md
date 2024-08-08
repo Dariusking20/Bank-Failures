@@ -2,7 +2,7 @@
 
 This project consists of real data from the FDIC, showing banks that failed from 1980 to 2023. It was inspired by the failure of Silicon Valley Bank last year. The bank failed due to not anticipating the effect of locking its depositors' money into relatively low-interest-rate securities.
 
-The tools I used for this project are Python and SQLite, along with some additional Python packages for visualizations, but mainly SQLite to showcase my SQL experience.
+The tools I used for this project are Python and SQLite, along with some additional Python packages for visualizations and FRED's API, but mainly SQLite to showcase a End-to-End SQL Project.
 
 So far, we have answered a few questions about this data:
 
